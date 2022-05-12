@@ -60,7 +60,7 @@
 #####  批量打Tag
     python git-helper.py tag  opt=create tag_name=V2.1.7.3  ref=tset4
     
-#####  拉代码
+#####  拉代码 到当前盘符的/build-package/code下
     python git-helper.py build  opt=build branch=feature/20220429
     
     
