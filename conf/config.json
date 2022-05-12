@@ -1,0 +1,13 @@
+{
+  "git-url": "http://96.4.4.242:8080",
+  "token": "***",
+  "project-ids": {
+    "credit": 4
+  },
+  "project-repository": [
+    {
+      "project-name": "tesst1",
+      "ssh-url": "git@gitlab.com:/tesst1.git"
+    }
+  ]
+}
